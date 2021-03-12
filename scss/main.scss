@@ -1,0 +1,19 @@
+// Variables
+$color-primary-purple: hsl(257, 40%, 49%);
+$color-primary-pink: hsl(300, 69%, 71%);
+
+// Reset
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: $color-primary-pink;
+  font-family: "Open Sans", sans-serif;
+}
+
+// headings font-family: 'Poppins', sans-serif;
