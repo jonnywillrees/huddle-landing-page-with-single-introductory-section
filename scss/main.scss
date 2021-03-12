@@ -14,6 +14,12 @@ $color-primary-pink: hsl(300, 69%, 71%);
 body {
   background-color: $color-primary-pink;
   font-family: "Open Sans", sans-serif;
+  line-height: 1.6;
 }
 
-// headings font-family: 'Poppins', sans-serif;
+h1,
+h2,
+h3 {
+  font-family: "Poppins", sans-serif;
+  line-height: 1.2;
+}
